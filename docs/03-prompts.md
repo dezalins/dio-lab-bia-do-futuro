@@ -1,5 +1,24 @@
 # Prompts do Agente
 
+> [!TIP]
+> Prompt que pode ser usado nessa etapa:
+> 
+> Preciso criar os prompts do meu agente financeiro educativo.
+> 
+> Organize as informações em:
+> - System prompt completo
+> - Lógica de decisão do agente
+> - Exemplos de interação (few-shot)
+> - Edge cases (fora de escopo, segurança, falta de contexto)
+> - Observações e aprendizados
+> 
+> Garanta que:
+> - O agente tenha comportamento consistente
+> - As instruções reduzam alucinações
+> - As respostas sejam simples, didáticas e práticas
+> - Os exemplos ajudem a guiar o modelo corretamente
+
+
 ## System Prompt
 
 ```text
