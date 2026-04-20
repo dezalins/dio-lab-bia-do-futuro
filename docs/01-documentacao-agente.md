@@ -1,5 +1,16 @@
 # Documentação do Agente
 
+> [!TIP]
+> Prompt que pode ser usado nessa etapa:
+> 
+> Preciso estruturar a documentação do meu agente financeiro educativo.
+> Organize as informações em: [Insira os tópicos que deseja na documentação].
+> Garanta que:
+> - A linguagem seja clara e acessível para leigos
+> - O agente seja descrito de forma objetiva e profissional
+> - As seções estejam bem organizadas para apresentação
+
+
 ## Caso de Uso
 
 ### Problema
@@ -106,11 +117,11 @@ flowchart TD
 
 ## Segurança e Anti-Alucinação
 ### Estratégias Adotadas
-- [x] O agente prioriza explicações gerais e educativas (não dados específicos);
-- [x] Quando não sabe, admite e sugere alternativas;
-- [x] Não faz recomendações de investimento específicas;
-- [x] Sempre incentiva decisões conscientes e análise pessoal;
-- [x] Evita números ou previsões sem base.
+- O agente prioriza explicações gerais e educativas (não dados específicos);
+- Quando não sabe, admite e sugere alternativas;
+- Não faz recomendações de investimento específicas;
+- Sempre incentiva decisões conscientes e análise pessoal;
+- Evita números ou previsões sem base.
 
 ### Limitações Declaradas
 
